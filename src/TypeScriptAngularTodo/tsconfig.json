@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "module": "system",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "noImplicitAny": false,
+    "outDir": "Scripts/",
+    "removeComments": false,
+    "sourceMap": true,
+    "sourceRoot": "App/",
+    "target": "es5",
+    "watch": false
+  },
+  "exclude": [
+    "node_modules",
+    "Scripts",
+    "wwwroot"
+  ],
+  "version": "1.7.3"
+}
